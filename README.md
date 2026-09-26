@@ -4,4 +4,4 @@
 
 | 文件夹 | 说明 |
 | --- | --- |
-| [`customer-agent-admin/`](customer-agent-admin/) | 顾客与代理管理后台（Supabase + Vercel）· https://customer-agent-admin-seven.vercel.app |
+| [`customer-agent-admin/`](customer-agent-admin/) | 房间出租后台：房间、租约、收费、合伙人分成（Supabase + Vercel）· https://customer-agent-admin-seven.vercel.app |
